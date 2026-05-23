@@ -1,0 +1,12 @@
+{
+  "name": "birthday-app",
+  "displayName": "Birthday App",
+  "expo": {
+    "name": "birthday-app",
+    "slug": "birthday-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
